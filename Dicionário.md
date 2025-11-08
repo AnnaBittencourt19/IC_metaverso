@@ -1,0 +1,6 @@
+- API: Usada para fazer a comunicação entre sistemas
+- JSON: Formato usado para a troca de dados
+- Servidor: Recebe e responde requisições
+- UnityWebRequest: Função do Unity que faz chamadas HTTP
+- Framework: Esqueleto para algo
+- 

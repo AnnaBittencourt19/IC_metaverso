@@ -1,0 +1,10 @@
+- [ ] API com FastAPI
+- [ ] FastAPI e Websocket
+- [ ] API REST ≠ Websocket
+- [ ] Conexão com o Unity
+- [ ] Documentos para alimentar o modelo
+- [ ] Qual LLM e modelo de embeddings usar (Groq (llhama 3) LLM)(embedding português: neuralmind/bert-base-portuguese-cased multilingue: paraphrase-multilingual-mpnet-base-v2)
+- [ ] Criação do RAG (pdfs -> chuckings -> embeddings -> LLM -> vector store -> prompt -> consulta)
+- [ ] Como ouvir o usuário no metaverso e passar para o modelo e retornar uma resposta (https://learn.deeplearning.ai/courses/building-live-voice-agents-with-googles-adk/lesson/dewdno61/introduction)
+- [ ] Gêmeos digitais com FastAPI e Websocket e MQTT 
+- [ ] Como implementar um gêmeo digital 

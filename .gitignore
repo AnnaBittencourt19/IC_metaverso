@@ -1,0 +1,31 @@
+# Unity
+InatelCampus_VR/Library/
+InatelCampus_VR/Temp/
+InatelCampus_VR/obj/
+InatelCampus_VR/Build/
+InatelCampus_VR/Builds/
+InatelCampus_VR/Logs/
+InatelCampus_VR/UserSettings/
+InatelCampus_VR/.utmp/
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian
+.obsidian/
