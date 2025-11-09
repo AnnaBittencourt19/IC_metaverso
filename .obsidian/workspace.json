@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5c2bcace86b90b1a",
+    "id": "3b4e18e8724a1142",
     "type": "split",
     "children": [
       {
-        "id": "7884e09d8cd3bb79",
+        "id": "2c9bc9ddc945865b",
         "type": "tabs",
         "children": [
           {
-            "id": "35e21351cc6492b8",
+            "id": "7f37d50b04335326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explicação de CRR_Inatel_Project/CRR_Inatel_Project.md",
+                "file": "Curso APIs com Python/Ferramentas de desenvolvedor/3. Configurando um ambiente virtual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRR_Inatel_Project"
+              "title": "3. Configurando um ambiente virtual"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1ea74d10ff987c7d",
+    "id": "aa85355a1cafebde",
     "type": "split",
     "children": [
       {
-        "id": "63da8efb21ad2bae",
+        "id": "52704c43bdd63175",
         "type": "tabs",
         "children": [
           {
-            "id": "375e114772c49efd",
+            "id": "7cf812c8ab452844",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "6c8bad35dad82dde",
+            "id": "587b373c04a83ede",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9dc6d83c2e17b183",
+            "id": "c8b987f69bf2702d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 300
   },
   "right": {
-    "id": "bbabb4b1d9d0e864",
+    "id": "3b18a715c1d37aea",
     "type": "split",
     "children": [
       {
-        "id": "5f7ea31e539caeb9",
+        "id": "d3426bbf25ce8d93",
         "type": "tabs",
         "children": [
           {
-            "id": "3cdf91fca254042f",
+            "id": "cfb7c253881945de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Observações do metaverso atual.md",
+                "file": "Curso APIs com Python/Ferramentas de desenvolvedor/3. Configurando um ambiente virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Observações do metaverso atual"
+              "title": "Links inversos para 3. Configurando um ambiente virtual"
             }
           },
           {
-            "id": "30c30e9fead4908b",
+            "id": "672a12b1440d6576",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Observações do metaverso atual.md",
+                "file": "Curso APIs com Python/Ferramentas de desenvolvedor/3. Configurando um ambiente virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Observações do metaverso atual"
+              "title": "Links de saída para 3. Configurando um ambiente virtual"
             }
           },
           {
-            "id": "d2a06f6f66446db8",
+            "id": "785fe23817cedbc1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "a05269c20e54c0bb",
+            "id": "b643dc9f954c2962",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Observações do metaverso atual.md",
+                "file": "Curso APIs com Python/Ferramentas de desenvolvedor/3. Configurando um ambiente virtual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Observações do metaverso atual"
+              "title": "Sumário de 3. Configurando um ambiente virtual"
             }
           }
         ]
@@ -169,49 +169,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "375e114772c49efd",
+  "active": "7f37d50b04335326",
   "lastOpenFiles": [
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/4. Retornando eventos com JSON.md",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/3.  Exibindo lista de eventos.md",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/2. Servidor HTTP básico com Python.md",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/1. Revisão protocolo HTTP.md",
+    "venv/bin/activate",
+    "venv/bin/activate.fish",
+    "venv/bin/Activate.ps1",
+    "venv/bin/activate.csh",
+    "venv/lib/python3.13/site-packages/pip-25.2.dist-info/REQUESTED",
+    "venv/lib/python3.13/site-packages/pip-25.2.dist-info/INSTALLER",
+    "venv/bin/pip3.13",
+    "venv/bin/pip3",
+    "venv/bin/pip",
+    "venv/lib/python3.13/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-313.pyc",
+    "venv/lib/python3.13/site-packages/pip/_vendor/urllib3/util/__pycache__/url.cpython-313.pyc",
+    "venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "Curso APIs com Python/Ferramentas de desenvolvedor/2. Requisições com Postman.md",
+    "Curso APIs com Python/Ferramentas de desenvolvedor/3. Configurando um ambiente virtual.md",
+    "Captura de Tela 2025-11-08 às 21.34.47.png",
     "Curso APIs com Python/Ferramentas de desenvolvedor/1. Interagindo com nossa API via CURL.md",
-    "Plano de estudo.md",
-    "Manual.md",
-    "boas praticas API.jpeg",
-    "Captura de Tela 2025-11-06 às 23.38.33.png",
-    "Unity/Básico.md",
-    "FastAPI do zero/Estudos.md",
-    "FastAPI + WebSocket/Estudos.md",
-    "Explicação de CRR_Inatel_Project/CRR_Inatel_Project.md",
-    "HTTP.md",
-    "Dicionário.md",
-    "Unity/Pathway Unity Essentials.md",
-    "Curso APIs com Python/Ferramentas de desenvolvedor",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP",
-    "Curso APIs com Python/Sem título.md",
-    "unnamed.jpg",
-    "exemplo_backend/ConfiguracaoCena.md",
-    "exemplo_backend/PassosImplementacao.md",
-    "6ebed8d9-04f6-4014-b680-7d4504344e7d.jpeg",
-    "FastAPI + WebSocket",
-    "FastAPI do zero",
-    "Observações do metaverso atual.md",
-    "Sobre qual framework usar.md",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/eventos/server.py",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/eventos/__pycache__/evento.cpython-313.pyc",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/eventos/app.py",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/eventos/__pycache__/evento_online.cpython-313.pyc",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/eventos/__pycache__",
-    "Curso APIs com Python/Desenvolvendo uma API HTTP/eventos/evento_online.py",
-    "CRR_Inatel_Project/src/README.md",
-    "CRR_Inatel_Project/src/Assets/Thumbnails/Thumbnail_eHealth.jpg",
-    "CRR_Inatel_Project/src/Assets/Thumbnails/Thumbnail_WOCA.jpg",
-    "CRR_Inatel_Project/src/Assets/Thumbnails/Thumbnail_Teatro.jpg",
-    "CRR_Inatel_Project/src/Assets/Thumbnails/Thumbnail_Inatel.jpg",
-    "CRR_Inatel_Project/src/Assets/Thumbnails/Thumbnail_IOT.jpg",
-    "CRR_Inatel_Project/src/Assets/Thumbnails/Thumbnail_ICT.jpg",
-    "CRR_Inatel_Project/README.md",
-    "Unity/Fundamentos de Unity.md"
+    "Captura de Tela 2025-11-06 às 23.38.33.png"
   ]
 }
