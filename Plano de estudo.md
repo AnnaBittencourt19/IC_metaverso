@@ -1,4 +1,9 @@
-- [ ] API com FastAPI
+Meta até dezembro: 
+- Aprender FastAPI (testar pelo postman a API e o backend), depois testar com o UnityWebRequest (se tiver funcionando no Postman e não no Unity o erro está no código C# e não no servidor)
+- Unity Essentials (Principalmente UnityWebRequest)
+- Fazer um micro-projeto com Unity e FastAPI (simples pode ser só um botão chamando um endpoint no servidor) e usar o CORS Middleware 
+
+- [ ] API com FastAPI 
 - [ ] FastAPI e Websocket
 - [ ] API REST ≠ Websocket
 - [ ] Conexão com o Unity

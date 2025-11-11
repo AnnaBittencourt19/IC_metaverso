@@ -192,3 +192,7 @@ app.add_middleware(
 ##### Implantação/Deployment
 - Uvicorn + Gunicorn 
 - Fazer com que o servidor aceite vários clientes sem travar
+##### Lacunas 
+- Colocar timeouts (tempo limite)
+- Usar os códigos HTTP certos para que os erros sejam especificados, colocar JSONs justificando erros (ex: {"erro": "O dispositivo não respondeu"})
+- Adicionar Try/Except para ter mais controle sob os erros
