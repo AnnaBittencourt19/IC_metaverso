@@ -6,12 +6,18 @@ authors = [
     {name = "AnnaBittencourt19",email = "bittencourtanna19@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10,<4.0"  # <--- Change this from 3.9 to 3.10
 dependencies = [
     "fastapi[standard] (>=0.121.1,<0.122.0)"
 ]
 
-
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.1,<10.0.0)",
+    "pytest-cov (>=7.0.0,<8.0.0)",
+    "taskipy (>=1.14.1,<2.0.0)",
+    "ruff (>=0.14.5,<0.15.0)"
+]
