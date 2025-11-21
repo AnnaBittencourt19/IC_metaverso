@@ -21,3 +21,24 @@ dev = [
     "taskipy (>=1.14.1,<2.0.0)",
     "ruff (>=0.14.5,<0.15.0)"
 ]
+
+[tool.ruff]
+line-length = 79
+extend-exclude = ['migrations']
+
+[tool.ruff.lint]
+preview = true
+select = ['I', 'F', 'E', 'W', 'PL', 'PT']
+
+[tool.ruff.format] 
+preview = true 
+quote-style = 'single'
+
+[tool.taskipy.tasks] 
+lint = 'ruff check' 
+pre_format = 'ruff check --fix' 
+format = 'ruff format'
+run = 'fastapi dev fast_zero/app.py'
+pre_test = 'task lint' 
+test = 'pytest -s -x --cov=fast_zero -vv' 
+post_test = 'coverage html'
